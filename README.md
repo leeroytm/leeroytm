@@ -1,8 +1,9 @@
-### meow
+### meow ᨐ∫
+---
+`🌱` `i have no idea what to do here`
+- wewr
 
-- is this how you make the readme on your profiles?
-- oh looks like it
-
+---
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
