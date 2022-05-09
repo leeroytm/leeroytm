@@ -1,6 +1,6 @@
 ### meow ᨐ∫
 ---
-`🌱` `i have no idea what to do here`
+`🌱` `i have no idea what im good at`
 - i mostly open reports here.
 
 ---
