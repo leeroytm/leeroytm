@@ -1,7 +1,7 @@
 ### meow ᨐ∫
 ---
 `🌱` `i have no idea what to do here`
-- wewr
+- i mostly open reports here.
 
 ---
 <!--
