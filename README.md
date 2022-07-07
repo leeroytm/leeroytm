@@ -4,7 +4,10 @@
 - i mostly open reports here.
 
 ---
+
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=leeroytm&theme=github_dark" alt="GitHub Stats">
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
