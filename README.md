@@ -3,7 +3,7 @@
 `🌱` `i have no idea what im good at`
 
 - i mostly open reports here.
-- currently dying in group project assignments
+- currently dying in framework for final year project
 ---
 
 ![alt text](https://cdn.discordapp.com/attachments/351602974050746369/1039634039247736904/thumbnail_leeroy_strike.png)
