@@ -6,7 +6,7 @@
 
 
 `🕒` currently i am...
->  🔲 dying in making a final report for my final year project
+>  🔲 dying in writing my final report from my final year project
 > 
 > ✅ dying in framework for final year project _(Exhibition finished on 13 Apr 23)_
 > 
