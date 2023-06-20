@@ -6,7 +6,7 @@
 
 
 `🕒` currently i am...
-> 🔲 Industry Training (LI)
+> ⏳ Industry Training (LI)
 > 
 > ✅ dying in writing my final report from my final year project _(Assignment finished on 22 May 23 - Overdued)_
 > 
