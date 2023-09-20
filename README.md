@@ -6,7 +6,7 @@
 
 
 `🕒` currently i am...
-> ⏳ Developing a system 
+> ❌ Developing a system _(Project was halted...)__
 >
 > ✅ Industry Training (LI)
 > 
