@@ -17,7 +17,7 @@
 > ✅ dying in group project assignments _(Assignment finished on 29 Nov 22)_
 ---
 
-![alt text](https://cdn.discordapp.com/attachments/351602974050746369/1039634039247736904/thumbnail_leeroy_strike.png)
+![leeroy freaking dies](thumbnail_leeroy_strike.png)
 
 `⬆️` _dumb me didnt know that lighting burns all of my items_
 
